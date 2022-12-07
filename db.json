@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "ProductName": "Apple",
+      "ProductCategory": "Fruite",
+      "date": "2022-11-28T22:00:00.000Z",
+      "Freshness": "New Brand",
+      "price": 10,
+      "comment": "Fresh fruit",
+      "id": 1
+    },
+    {
+      "ProductName": "Orange",
+      "ProductCategory": "Fruite",
+      "date": "2022-11-28T22:00:00.000Z",
+      "Freshness": "New Brand",
+      "price": 20,
+      "comment": "Fresh Fruit",
+      "id": 2
+    },
+    {
+      "ProductName": "Orange",
+      "ProductCategory": "Fruite",
+      "date": "2022-12-06T22:00:00.000Z",
+      "Freshness": "New Brand",
+      "price": 10,
+      "comment": "Fresh fruit ",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
